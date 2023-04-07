@@ -1,0 +1,17 @@
+{
+    "name": "shuvo247/simple-form-submission",
+    "description": "This will be a simple php form submission with php oop and mvc",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Shuvo247\\SimpleFormSubmission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD Shakibul Islam"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
