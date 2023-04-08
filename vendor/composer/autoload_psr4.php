@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Shuvo247\\SimpleFormSubmission\\' => array($baseDir . '/src'),
+    'App\\Controllers\\' => array($baseDir . '/app/controllers'),
 );

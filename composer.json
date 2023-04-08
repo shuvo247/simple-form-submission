@@ -4,7 +4,7 @@
     "license": "GPLv2",
     "autoload": {
         "psr-4": {
-            "Shuvo247\\SimpleFormSubmission\\": "src/"
+            "App\\Controllers\\": "app/controllers"
         }
     },
     "authors": [
